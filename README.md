@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Ilya!
 
+<hr>
 ### I'm beginner Frontend developer.
 
 ### Languages and Tools.
