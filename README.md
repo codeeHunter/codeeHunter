@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ilya! I'm beginner Frontend developer.
  
 
-### About me
+## About me
 
 <ul>
 <li>
@@ -30,8 +30,9 @@ Looking for a job
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+<hr>
 
-## Social Network's
+### Social Network's
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nemnogononame)
 
