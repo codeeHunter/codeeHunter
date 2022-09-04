@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Ilya! I'm beginner Frontend developer.
  
-<hr>
 
 ## About me
 
@@ -16,7 +15,6 @@ Looking for a job
 </li>
 </ul>
 
-<hr>
 
 ## Languages and Tools.
 
