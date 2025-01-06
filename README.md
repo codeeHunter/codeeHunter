@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ilya! I'm beginner Backend developer.
+# Hi there 👋, I'm Ilya! I'm Backend developer.
  
 
 ## About me
